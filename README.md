@@ -8,6 +8,6 @@
 #about
 <p>Space Invaders is a classic arcade game where players control a spaceship to defend Earth from descending waves of pixelated alien invaders by shooting them down.</p>
 
-<img src ="https://i.imgur.com/hqG280h.png"></img>
+<img src ="https://i.imgur.com/hqG280h.png" height="150" ></img>
 <br>
-<img src ="https://imgur.com/hqG280h"></img>
+<img src ="https://i.imgur.com/hqG280h.png" height="150"></img>
