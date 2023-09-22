@@ -20,5 +20,5 @@
 
 <img src ="https://i.imgur.com/fQH7tVF_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height="300" ></img>
 <br>
-<img src ="https://imgur.com/ZUqhGSQ" height="300"></img>
+<img src ="https://i.imgur.com/ZUqhGSQ_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height="300"></img>
 <br>
