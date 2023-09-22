@@ -5,7 +5,7 @@
 <h3>Here are some of my PyGame Projects</h3>
 
 # <h2>Space Invaders</h2>
-##about
+#about
 <p>Space Invaders is a classic arcade game where players control a spaceship to defend Earth from descending waves of pixelated alien invaders by shooting them down.</p>
 
 <img src ="https://imgur.com/hqG280h"></img>
