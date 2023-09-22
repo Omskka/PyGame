@@ -11,3 +11,14 @@
 <img src ="https://i.imgur.com/EP4sW07.png" height="300" ></img>
 <br>
 <img src ="https://i.imgur.com/hqG280h.png" height="300"></img>
+<br>
+
+# <h2>TicTacToe</h2>
+
+#about
+<p>Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. </p>
+
+<img src ="https://i.imgur.com/fQH7tVF_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height="300" ></img>
+<br>
+<img src ="https://imgur.com/ZUqhGSQ" height="300"></img>
+<br>
