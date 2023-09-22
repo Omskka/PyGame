@@ -1,1 +1,1 @@
-<img href="https://www.pygame.org/docs/_images/pygame_logo.png"></img>
+<img src="https://www.pygame.org/docs/_images/pygame_logo.png"></img>
