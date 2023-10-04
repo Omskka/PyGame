@@ -10,7 +10,7 @@
 <h3>Our game charcter, Murat: </h3><br>
 <img src ="https://i.imgur.com/Qko9gv4_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img> <br>
 <h3>What the game looks like :</h3>
-<img src ="https://i.imgur.com/MJxQf7G_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img> <br>
+<img src ="https://i.imgur.com/MJxQf7G_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img>
 <img src ="https://i.imgur.com/0KRDIwa_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img> <br>
 
 # <h2>Space Invaders</h2>
@@ -27,6 +27,5 @@
 <p>Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. </p>
 
 <img src ="https://i.imgur.com/fQH7tVF_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height="350" ></img>
-<br> <br>
 <img src ="https://i.imgur.com/ZUqhGSQ_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height="350"></img>
 <br> <br>
