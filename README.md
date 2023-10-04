@@ -4,7 +4,7 @@
 [![Release](https://img.shields.io/badge/release-v1.0-orange.svg?style=flat)](http://www.leejamesrobinson.com/space-invaders.html)
 <h3>Here are some of my PyGame Projects</h3>
 
-#<h2>IndoMission</h2>
+# <h2>IndoMission</h2>
 #about
 <p>IndoMission is a game I wrote where our game character 'Murat' (yup that's me) tries to collect the instant noodles on the map while trying to dodge the enemy ghosts.</p> <br>
 Our game charcter, Murat: <br>
