@@ -24,7 +24,7 @@
 
 <img src ="https://i.imgur.com/EP4sW07.png" height="300" align="left"></img>
 <img src ="https://i.imgur.com/hqG280h.png" height="300" align="right"></img>
-
+<br>
 
 # <h2>TicTacToe</h2>
 
