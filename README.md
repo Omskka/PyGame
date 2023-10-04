@@ -7,7 +7,7 @@
 # <h2>IndoMission</h2>
 <h3>about</h3>
 <p>IndoMission is a game I wrote where our game character 'Murat' (yup that's me) tries to collect the instant noodles on the map while trying to dodge the enemy ghosts.</p> <br>
-<h3>Our charcter, Murat:              The enemy character </h3>
+<h3>Our charcter, Murat:                    The enemy character </h3>
 
 <img src ="https://i.imgur.com/Qko9gv4_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 400 width = 400 ></img>
 <img src ="https://i.imgur.com/HvBaCmu_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 400 width = 400 ></img>
