@@ -19,7 +19,7 @@
 
 
 # <h2>Space Invaders</h2>
-<h3>about</h3>
+<h3>about</h3> <br>
 <p>Space Invaders is a classic arcade game where players control a spaceship to defend Earth from descending waves of pixelated alien invaders by shooting them down.</p>
 
 <img src ="https://i.imgur.com/EP4sW07.png" height="300" align="left"></img>
@@ -28,7 +28,7 @@
 <br>
 # <h2>TicTacToe</h2>
 
-<h3>about</h3>
+<h3>about</h3> <br>
 <p>Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. </p>
 
 <img src ="https://i.imgur.com/fQH7tVF_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height="350" align="left"></img>
