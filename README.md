@@ -14,13 +14,13 @@
 
 <h3>What the game looks like :</h3>
 <img src ="https://i.imgur.com/MJxQf7G_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img>
-<img src ="https://i.imgur.com/0KRDIwa_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img> <br>
+<img src ="https://i.imgur.com/0KRDIwa_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img> 
 
 # <h2>Space Invaders</h2>
 <h3>about</h3>
 <p>Space Invaders is a classic arcade game where players control a spaceship to defend Earth from descending waves of pixelated alien invaders by shooting them down.</p>
 
-<img src ="https://i.imgur.com/EP4sW07.png" height="300" margin-right = 120px></img>
+<img src ="https://i.imgur.com/EP4sW07.png" height="300" margin-right = 120px></img>&nbsp&nbsp
 <img src ="https://i.imgur.com/hqG280h.png" height="300"></img>
 
 
