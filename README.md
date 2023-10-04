@@ -8,8 +8,8 @@
 <h3>about</h3>
 <p>IndoMission is a game I wrote where our game character 'Murat' (yup that's me) tries to collect the instant noodles on the map while trying to dodge the enemy ghosts.</p> <br>
 <h3>Our charcter, Murat: </h3>
-<img src ="https://i.imgur.com/Qko9gv4_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 300 width = 300 ></img>
-<img src ="https://i.imgur.com/HvBaCmu_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 300 width = 300 ></img>
+<img src ="https://i.imgur.com/Qko9gv4_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 200 width = 200 ></img>
+<img src ="https://i.imgur.com/HvBaCmu_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 200 width = 200 ></img>
 <h3>What the game looks like :</h3>
 <img src ="https://i.imgur.com/MJxQf7G_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img>
 <img src ="https://i.imgur.com/0KRDIwa_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img> <br>
