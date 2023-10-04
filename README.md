@@ -12,9 +12,11 @@
 <img src ="https://i.imgur.com/Qko9gv4_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 400 width = 400 ></img>
 <img src ="https://i.imgur.com/HvBaCmu_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 400 width = 400 ></img>
 
+
 <h3>What the game looks like :</h3>
 <img src ="https://i.imgur.com/MJxQf7G_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img>    
 <img src ="https://i.imgur.com/0KRDIwa_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img> 
+
 
 # <h2>Space Invaders</h2>
 <h3>about</h3>
