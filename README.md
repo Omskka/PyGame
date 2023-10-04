@@ -9,7 +9,7 @@
 <p>IndoMission is a game I wrote where our game character 'Murat' (yup that's me) tries to collect the instant noodles on the map while trying to dodge the enemy ghosts.</p> <br>
 <h3>Our character, Murat: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp The enemy character :  </h3>
 
-<img src ="https://i.imgur.com/Qko9gv4_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 400 width = 400 ></img>
+<img src ="https://i.imgur.com/Qko9gv4_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 400 width = 400 align="left"></img>
 <img src ="https://i.imgur.com/HvBaCmu_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 400 width = 400  align="center"></img>
 
 
@@ -31,6 +31,6 @@
 <h3>about</h3>
 <p>Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. </p>
 
-<img src ="https://i.imgur.com/fQH7tVF_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height="350" ></img>
+<img src ="https://i.imgur.com/fQH7tVF_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height="350" align="left"></img>
 <img src ="https://i.imgur.com/ZUqhGSQ_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height="350" align="center"></img>
 <br> <br>
