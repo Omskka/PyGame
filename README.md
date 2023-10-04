@@ -5,7 +5,7 @@
 <h3>Here are some of my PyGame Projects</h3>
 
 # <h2>IndoMission</h2>
-#about
+<h1>about</h1>
 <p>IndoMission is a game I wrote where our game character 'Murat' (yup that's me) tries to collect the instant noodles on the map while trying to dodge the enemy ghosts.</p> <br>
 <h3>Our game charcter, Murat: </h3><br>
 <img src ="https://i.imgur.com/Qko9gv4_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img> <br>
@@ -16,7 +16,7 @@
 
 
 # <h2>Space Invaders</h2>
-#about
+<h1>about</h1>
 <p>Space Invaders is a classic arcade game where players control a spaceship to defend Earth from descending waves of pixelated alien invaders by shooting them down.</p>
 
 <img src ="https://i.imgur.com/EP4sW07.png" height="300" ></img>
@@ -26,7 +26,7 @@
 
 # <h2>TicTacToe</h2>
 
-#about
+<h1>about</h1>
 <p>Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. </p>
 
 <img src ="https://i.imgur.com/fQH7tVF_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height="350" ></img>
