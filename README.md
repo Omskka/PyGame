@@ -17,6 +17,11 @@
 <img src ="https://i.imgur.com/MJxQf7G_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img>
 <img src ="https://i.imgur.com/0KRDIwa_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img>
 
+# <h2>Flappy Bird</h2>
+<h3>about</h3> <br>
+<p>Flappy Bird is an arcade-style game in which the player controls the bird Faby, which moves persistently to the right. The player is tasked with navigating Faby through pairs of pipes that have equally sized gaps placed at random heights.</p>
+
+<img src ="https://i.imgur.com/GPfPUXI_lq.mp4" ></img>
 
 # <h2>Space Invaders</h2>
 <h3>about</h3> <br>
