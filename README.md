@@ -14,7 +14,7 @@
 
 
 <h3>What the game looks like :</h3>
-<img src ="https://i.imgur.com/MJxQf7G_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  ></img>
+<img src ="https://i.imgur.com/7FBSETA_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  ></img>
 <img src ="https://i.imgur.com/0KRDIwa_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  ></img>
 
 
