@@ -14,8 +14,8 @@
 
 
 <h3>What the game looks like :</h3>
-<img src ="https://i.imgur.com/MJxQf7G_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img>
-<img src ="https://i.imgur.com/0KRDIwa_d.jpg?maxwidth=520&shape=thumb&fidelity=high" ></img>
+<img src ="https://i.imgur.com/MJxQf7G_d.jpg?maxwidth=520&shape=thumb&fidelity=high" width = 50% height = 50%  ></img>
+<img src ="https://i.imgur.com/0KRDIwa_d.jpg?maxwidth=520&shape=thumb&fidelity=high" width = 50% height = 50%  ></img>
 
 # <h2>Flappy Bird</h2>
 <h3>about</h3> <br>
