@@ -6,7 +6,7 @@
 
 # <h2>Knight's Leap: Slime & Specter Saga</h2>
 <h3>about</h3>
-<p>Dame's Leap: Slime & Specter Saga is a game i coded where a courageous female knight leaps across blocky terrains, avoiding slime and ghost enemies.</p>
+<p>Knight's Leap: Slime & Specter Saga is a game i coded where a courageous female knight leaps across blocky terrains, avoiding slime and ghost enemies.</p>
 <br>
 <h3>What the game looks like :</h3>
 <img src="https://i.imgur.com/kbcoheJ_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  align = "left"  height = 400 width = 400></img>
