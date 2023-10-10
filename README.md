@@ -14,6 +14,7 @@
 <img src="https://i.imgur.com/xNF0VBX_d.jpg?maxwidth=520&shape=thumb&fidelity=high"   height = 400 width = 400></img> <br> <br>
 
 * I sometimes get this warnining when trying to replay the game <br>
+
 ```
 libpng warning: iCCP: known incorrect sRGB profile
 ```
