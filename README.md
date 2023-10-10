@@ -13,7 +13,7 @@
 <img src="https://i.imgur.com/MGp7yqq_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  align = "center"  height = 400 width = 400></img> <br> <br>
 <img src="https://i.imgur.com/xNF0VBX_d.jpg?maxwidth=520&shape=thumb&fidelity=high"   height = 400 width = 400></img> <br> <br>
 
-* I sometimes get this warnining when I click on the 'new game' and the 'stop' button (help :/)<br>
+* I sometimes get this warnining when I click on the 'new game' or the 'stop' button (help :/)<br>
 
 ```
 libpng warning: iCCP: known incorrect sRGB profile
