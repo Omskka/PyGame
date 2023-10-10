@@ -13,8 +13,7 @@
 <img src="https://i.imgur.com/MGp7yqq_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  align = "center"  height = 400 width = 400></img> <br> <br>
 <img src="https://i.imgur.com/xNF0VBX_d.jpg?maxwidth=520&shape=thumb&fidelity=high"   height = 400 width = 400></img> <br> <br>
 
-
-
+<hr>
 # <h2>IndoMission</h2>
 <h3>about</h3>
 <p>IndoMission is a game I coded where our game character 'Murat' (yup that's me) tries to collect the instant noodles on the map while trying to dodge the enemy ghosts.</p> <br>
