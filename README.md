@@ -10,7 +10,7 @@
 <br>
 <h3>What the game looks like :</h3>
 <img src="https://i.imgur.com/kbcoheJ_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  align = "left"  height = 400 width = 400></img> 
-<img src="https://i.imgur.com/MGp7yqq_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  align = "center"  height = 400 width = 400></img> 
+<img src="https://i.imgur.com/MGp7yqq_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  align = "center"  height = 400 width = 400></img> <br> <br>
 <img src="https://i.imgur.com/xNF0VBX_d.jpg?maxwidth=520&shape=thumb&fidelity=high"   height = 400 width = 400></img> <br> <br>
 
 
