@@ -11,7 +11,7 @@
 <h3>What the game looks like :</h3>
 <img src="https://i.imgur.com/kbcoheJ_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  height="150"></img> <br> <br>
 <img src="https://i.imgur.com/MGp7yqq_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  height="150"></img> <br> <br>
-<img src="https://www.pygame.org/docs/_images/pygame_logo.png"  height="150"></img> <br> <br>
+<img src="https://i.imgur.com/xNF0VBX_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  height="150"></img> <br> <br>
 
 
 
