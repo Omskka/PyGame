@@ -13,6 +13,9 @@
 <img src="https://i.imgur.com/MGp7yqq_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  align = "center"  height = 400 width = 400></img> <br> <br>
 <img src="https://i.imgur.com/xNF0VBX_d.jpg?maxwidth=520&shape=thumb&fidelity=high"   height = 400 width = 400></img> <br> <br>
 
+I sometimes get this warnining when trying to replay the game
+* libpng warning: iCCP: known incorrect sRGB profile
+
 <hr>
 
 # <h2>IndoMission</h2>
