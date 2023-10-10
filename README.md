@@ -4,11 +4,11 @@
 [![Release](https://img.shields.io/badge/release-v1.0-orange.svg?style=flat)](http://www.leejamesrobinson.com/space-invaders.html)
 <h3>Here are some of my PyGame Projects</h3>
 
-# <h2>Knight's Leap: Slime & Specter Saga</h2<
+# <h2>Knight's Leap: Slime & Specter Saga</h2>
 <h3>about</h3>
 <p>Dame's Leap: Slime & Specter Saga is a game i coded where a courageous female knight leaps across blocky terrains, avoiding slime and ghost enemies.</p>
-<img src= "https://i.imgur.com/kbcoheJ_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 350 width = 350 align = "left"></img>
-<img src= "https://i.imgur.com/MGp7yqq_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 350 width = 350 align = "center"></img>
+<img src= "https://i.imgur.com/kbcoheJ_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 390 width = 390 align = "left"></img>
+<img src= "https://i.imgur.com/MGp7yqq_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 390 width = 390 align = "center"></img>
 
 
 
