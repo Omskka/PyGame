@@ -11,7 +11,7 @@
 <h3>What the game looks like :</h3>
 <img src= "https://i.imgur.com/kbcoheJ_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 390 width = 390 align = "left"></img>
 <img src= "https://i.imgur.com/MGp7yqq_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 390 width = 390 align = "center"></img>
-<img src= "https://i.imgur.com/xNF0VBX_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 390 width = 390 align = "left"></img>
+
 
 
 # <h2>IndoMission</h2>
