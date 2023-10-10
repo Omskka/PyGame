@@ -29,6 +29,8 @@
 <img src ="https://i.imgur.com/vUZat77_d.jpg?maxwidth=520&shape=thumb&fidelity=high"  height = 250 width = 400 align = "center" ></img>
 <br><br>
 
+<hr>
+
 # <h2>Flappy Bird</h2>
 <h3>about</h3> <br>
 <p>Flappy Bird is an arcade-style game in which the player controls the bird Faby, which moves persistently to the right. The player is tasked with navigating Faby through pairs of pipes that have equally sized gaps placed at random heights.</p>
@@ -36,6 +38,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src ="https://i.imgur.com/bjkXkrE_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 500 width = 312 align="left"></img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src ="https://i.imgur.com/tBbwMCJ_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height = 500 width = 312 align="center"></img>
 <br><br>
+
+<hr>
 
 # <h2>Space Invaders</h2>
 <h3>about</h3> <br>
@@ -45,6 +49,9 @@
 <img src ="https://i.imgur.com/hqG280h.png" height="300" align="center"></img> <br>
 <br>
 <br>
+
+<hr>
+
 # <h2>TicTacToe</h2>
 
 <h3>about</h3> <br>
