@@ -1,4 +1,4 @@
-
+![image](https://github.com/Omskka/PyGame/assets/92455486/b140a6a0-8d05-4b6e-a55e-8d1300b42d40)<img src="https://www.pygame.org/docs/_images/pygame_logo.png"  height="150"></img> <br> <br>
 [![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
 [![Module](https://img.shields.io/badge/module-pygame-brightgreen.svg?style=flat)](http://www.pygame.org/news.html)
 [![Release](https://img.shields.io/badge/release-v1.0-orange.svg?style=flat)](http://www.leejamesrobinson.com/space-invaders.html)
